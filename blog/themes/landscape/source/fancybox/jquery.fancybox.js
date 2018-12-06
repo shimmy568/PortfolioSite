@@ -900,7 +900,7 @@
 
 			F.trigger('onReady');
 
-			// Check before try to load; 'inline' and 'html' types need content, others - href
+			// Check before try to load; 'inline' and 'html' types need content, website - href
 			if (type === 'inline' || type === 'html') {
 				if (!coming.content || !coming.content.length) {
 					return F._error( 'content' );
