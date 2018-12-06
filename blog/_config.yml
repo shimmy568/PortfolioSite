@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
+description: A blog for a meme lord software engineer
+keywords: Programming, Software Engineering, Blog, Development
+author: Owen Anderson
+language: English
 timezone:
 
 # URL
