@@ -99,3 +99,10 @@ jsonContent:
     excerpt: false
     categories: true
     tags: true
+
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
