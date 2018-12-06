@@ -60,3 +60,5 @@ typings/
 # dist files for project
 dist/bundle.js
 dist/bundle.js.map
+
+blog/db.json
